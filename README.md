@@ -16,7 +16,7 @@ React Slick Carousel 🎠
 Firebase (Optional, for authentication & database)
 🚀 Getting Started
 1️⃣ Clone this repo
-git clone https://github.com/yourusername/disney-plus-clone.git
+git clone https://github.com/Nishankafle15/disney-plus-clone.git
 cd disney-plus-clone
 
 ###2️⃣ Install dependencies
